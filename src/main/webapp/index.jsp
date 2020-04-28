@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h1>WELCOME JENKINS</h1>
-
-<p>this is my first project</p>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">welcome to jenkins-projects</p>
 
 </body>
 </html>
